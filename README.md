@@ -1,2 +1,5 @@
-# tictactoe
-An object oriented implementation of Tic-Tac-Toe in Java
+# Tic-Tac-Toe
+This was my final programming assignment for the course Object Oriented Programming in Java
+
+## Final Grade: 
+I received a 99% grade in this course
