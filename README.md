@@ -1,2 +1,2 @@
 # Tic-Tac-Toe
-This was my final programming assignment for the course Object Oriented Programming in Java
+An object oriented implementation of Tic-Tac-Toe (with a naive AI player algorithm) 
