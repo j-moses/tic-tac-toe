@@ -1,2 +1,2 @@
 # Tic-Tac-Toe
-An object oriented implementation of Tic-Tac-Toe (with a naive AI player algorithm) 
+An object oriented implementation of tic-tac-toe (with a naive AI player algorithm) 
